@@ -7,5 +7,5 @@ AWS IoT Greengrass is software that extends cloud capabilities to local devices.
 ![alt text](https://github.com/anujdev11/AWS-Greengrass-With-DynamoDB/blob/master/Images/greengrass.png "Output_1")
 
 ## 2. Implementation Stepts 
-[Link To Blog for Implementation](https://anujdev11.blogspot.com/2020/05/aws-greengrass-with-dynamodb_5.html)
+[Link To Blog for Implementation](https://medium.com/@anujdev11/aws-greengrass-with-dynamodb-9bc098dabd9f)
 
